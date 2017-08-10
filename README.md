@@ -6,4 +6,4 @@ Elle permet les chercheurs de publier leurs articles.
 -	Développement de côté serveur  avec  PHP et MySql
 </p>
 <br/>
-<a href="https://equipelaboriadi-samirromdhani.c9users.io">Demo</a>
+<a href="https://laboriadi.herokuapp.com">Demo</a>
