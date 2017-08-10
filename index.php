@@ -90,7 +90,7 @@ if(isset($_POST['btn-login']))
             <!--<button type="submit" name="btn-login" class="btn btn-primary btn-lg btn-block">&nbsp; Connection
             </button>-->
 
-            <button class="btn btn-info btn-lg btn-block" type="submit">S'inscrire</button>
+          <!--  <button class="btn btn-info btn-lg btn-block"  type="submit">S'inscrire</button> -->
             <label>Vous n'êtes pas inscrit ? <a href="sign-up.php"> Inscrivez-vous</a></label>
             </div>
         </div>

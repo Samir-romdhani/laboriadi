@@ -68,7 +68,6 @@ if(isset($_POST['btn-signup']))
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Creative - Bootstrap 3 Responsive Admin Template">
-    <meta name="author" content="GeeksLabs">
     <meta name="keyword" content="Creative, Dashboard, Admin, Template, Theme, Bootstrap, Responsive, Retina, Minimal">
     <link rel="shortcut icon" href="img/favicon.png">
 
@@ -113,7 +112,7 @@ if(isset($_POST['btn-signup']))
                       <i class="glyphicon glyphicon-log-in"></i> &nbsp; Successfully registered <a href='login.php'>login</a> here
                  </div>
  -->                 <div class="alert alert-info">
-                      <i class="glyphicon glyphicon-log-in"></i> Enregistré avec succès <a href='login.php'> cliquer </a> ici
+                      <i class="glyphicon glyphicon-log-in"></i> Enregistré avec succès <a href='../'> cliquer ici</a> 
                  </div>
                  <?php
 			}
@@ -134,7 +133,7 @@ if(isset($_POST['btn-signup']))
                 </button>
             </div>
             <br />
-            <label>Vous êtes déjà inscrit ? <a href="login.php">Connectez-vous</a></label>
+            <label>Vous êtes déjà inscrit ? <a href="../">Connectez-vous</a></label>
           </div>
       </form>
 

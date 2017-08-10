@@ -95,7 +95,7 @@ require_once("User/user_id.php");
                 else
                 {
                   echo "<li>";
-                   echo "<a href='login.php'><i class=''></i>Se connecter</a>";
+                   echo "<a href='../'><i class=''></i>Se connecter</a>";
                 } echo "</li>";
                 ?>
                     <!-- user login dropdown end -->
