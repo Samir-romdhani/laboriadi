@@ -32,7 +32,7 @@
             </div>
 
             <!--logo start-->
-            <a href="evenements.php" class="logo">Laboratoire <span class="lite">Riadi</span></a>
+            <a href="index.php" class="logo">Laboratoire <span class="lite">Riadi</span></a>
             <!--logo end-->
 
             <div class="nav search-row" id="top_menu">
@@ -90,7 +90,7 @@
               <!-- sidebar menu start-->
               <ul class="sidebar-menu">                
                   <li class="">
-                      <a class="" href="evenements.php">
+                      <a class="" href="index.php">
                           <i class="icon_house_alt"></i>
                           <span>Acceuil</span>
                       </a>
@@ -187,7 +187,7 @@ $tab=$member->getInfo($user_id);
                     <a href="membres.php"> <span class="arrow_left_alt pull-left" style="font-size:24px"></span></a><br/>
                     <h3 class="page-header"><i class="fa fa fa-bars"></i>Membres</h3>
                     <ol class="breadcrumb">
-                        <li><i class="fa fa-home"></i><a href="evenements.php">Acceuil</a></li>
+                        <li><i class="fa fa-home"></i><a href="index.php">Acceuil</a></li>
                         <?php echo "<li><i class=''></i>$tab[user_name]</li>";  ?>
                         <li><i class=""></i>Paramètres</li>
                     </ol>

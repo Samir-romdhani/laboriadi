@@ -55,7 +55,7 @@ if($action=='deleted'){
             </div>
 
             <!--logo start-->
-            <a href="evenements.php" class="logo">Laboratoire <span class="lite">Riadi</span></a>
+            <a href="../" class="logo">Laboratoire <span class="lite">Riadi</span></a>
             <!--logo end-->
 
             <div class="nav search-row" id="top_menu">
@@ -128,7 +128,7 @@ if($action=='deleted'){
                   </li>
 
                   <li>
-                  <a class="" href="evenements.php">
+                  <a class="" href="../">
                   <i class="icon_calendar"></i>
                   <span>Evénements</span>
                   </a>

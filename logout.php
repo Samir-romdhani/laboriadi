@@ -12,5 +12,5 @@
 	{
 		$_SESSION['user_session']=0 ;
 		$user_logout->doLogout();
-		$user_logout->redirect('evenements.php?logout');
+		$user_logout->redirect('../?logout');
 	}

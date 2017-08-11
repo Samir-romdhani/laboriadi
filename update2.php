@@ -54,7 +54,7 @@ if($_POST){
             </div>
 
             <!--logo start-->
-            <a href="evenements.php" class="logo">Laboratoire <span class="lite">Riadi</span></a>
+            <a href="index.php" class="logo">Laboratoire <span class="lite">Riadi</span></a>
             <!--logo end-->
 
             <div class="nav search-row" id="top_menu">
@@ -127,7 +127,7 @@ if($_POST){
                   </li>
 
                   <li>
-                  <a class="" href="evenements.php">
+                  <a class="" href="index.php">
                   <i class="icon_calendar"></i>
                   <span>Evénements</span>
                   </a>

@@ -32,7 +32,7 @@
             </div>
 
             <!--logo start-->
-            <a href="evenements.php" class="logo">Laboratoire <span class="lite">Riadi</span></a>
+            <a href="index.php" class="logo">Laboratoire <span class="lite">Riadi</span></a>
             <!--logo end-->
 
             <div class="nav search-row" id="top_menu">
@@ -105,7 +105,7 @@
                   </li>
 
                   <li>
-                  <a class="" href="evenements.php">
+                  <a class="" href="index.php">
                   <i class="icon_calendar"></i>
                   <span>Evénements</span>
                   </a>
@@ -199,7 +199,7 @@
         <div class="col-lg-12">
                     <h3 class="page-header"><i class="icon_profile"></i>PROFIL</h3>
                     <ol class="breadcrumb">
-                        <li><i class="fa fa-home"></i><a href="evenements.php">Acceuil</a></li>
+                        <li><i class="fa fa-home"></i><a href="index.php">Acceuil</a></li>
                         <li><i class="icon_documents_alt"></i>Pages</li>
                         <li><i class="icon_profile"></i>Profil</li>
                     </ol>

@@ -32,7 +32,7 @@
             </div>
 
             <!--logo start-->
-            <a href="evenements.php" class="logo">Laboratoire <span class="lite">Riadi</span></a>
+            <a href="index.php" class="logo">Laboratoire <span class="lite">Riadi</span></a>
             <!--logo end-->
 
             <div class="nav search-row" id="top_menu">
@@ -77,7 +77,7 @@
                             echo "</li>";
                             echo "<li>";
                                 //echo "<a href='http://localhost/labo-user_2/User/logout.php?logout=true'><i class='icon_key_alt'></i> Deconnecter</a>";
-                                echo "<a href='evenements.php?logout'><i class='icon_key_alt'></i> Deconnecter</a>";
+                                echo "<a href='index.php?logout'><i class='icon_key_alt'></i> Deconnecter</a>";
                             echo "</li>";
                             echo "<li>";
                                 echo "<a href='#'><i class=''></i> Documentation</a>";
@@ -125,7 +125,7 @@
                   ?>
 
                   <li>
-                  <a class="" href="evenements.php">
+                  <a class="" href="index.php">
                   <i class="icon_calendar"></i>
                   <span>Evénements</span>
                   </a>
@@ -227,7 +227,7 @@
                 <div class="col-lg-12">
                     <h3 class="page-header"><i class="fa fa fa-bars"></i>Présentation</h3>
                     <ol class="breadcrumb">
-                        <li><i class="fa fa-home"></i><a href="evenements.php">Acceuil</a></li>
+                        <li><i class="fa fa-home"></i><a href="index.php">Acceuil</a></li>
                         <li><i class=""></i>Présentation</li>
                         <li><i class=""></i> A  Propos de Riadi</li>
                     </ol>

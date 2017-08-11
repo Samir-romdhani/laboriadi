@@ -33,7 +33,7 @@ $ch=isset($_GET['search']) ? $_GET['search'] : die();
             </div>
 
             <!--logo start-->
-            <a href="evenements.php" class="logo">Laboratoire <span class="lite">Riadi</span></a>
+            <a href="index.php" class="logo">Laboratoire <span class="lite">Riadi</span></a>
             <!--logo end-->
 
             <div class="nav search-row" id="top_menu">
@@ -78,7 +78,7 @@ $ch=isset($_GET['search']) ? $_GET['search'] : die();
                             echo "</li>";
                             echo "<li>";
                                 echo "<a href='logout.php?logout=true'><i class='icon_key_alt'></i> Deconnecter</a>";
-                                //echo "<a href='evenements.php?logout'><i class='icon_key_alt'></i> Deconnecter</a>";
+                                //echo "<a href='index.php?logout'><i class='icon_key_alt'></i> Deconnecter</a>";
                             echo "</li>";
                             echo "<li>";
                                 echo "<a href='#'><i class=''></i> Documentation</a>";
@@ -126,7 +126,7 @@ $ch=isset($_GET['search']) ? $_GET['search'] : die();
                   ?>
 
                   <li>
-                  <a class="" href="evenements.php">
+                  <a class="" href="index.php">
                   <i class="icon_calendar"></i>
                   <span>Evénements</span>
                   </a>
@@ -229,7 +229,7 @@ $ch=isset($_GET['search']) ? $_GET['search'] : die();
                 <div class="col-lg-12">
                             <h3 class="page-header"><i class="fa fa fa-bars"></i>Recherche</h3>
                             <ol class="breadcrumb">
-                                <li><i class="fa fa-home"></i><a href="evenements.php">Acceuil</a></li>
+                                <li><i class="fa fa-home"></i><a href="index.php">Acceuil</a></li>
                                 <li><i class=""></i><a href="#">Recherche</a></li>
                                 <?php
                                 echo "<li><i class=''></i>\"$ch\"</li>";
